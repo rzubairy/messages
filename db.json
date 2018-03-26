@@ -1,0 +1,23 @@
+{
+    "Messages": [{
+            "id": 1,
+            "message": "Welcome!"
+        },
+        {
+            "id": 2,
+            "message": "Waiting for the program registration"
+        },
+        {
+            "id": 3,
+            "message": "Thank you for your registration"
+        },
+        {
+            "id": 4,
+            "message": "Please clear your dues"
+        },
+        {
+            "id": 5,
+            "message": "Thank you for your payment"
+        }
+    ]
+}
